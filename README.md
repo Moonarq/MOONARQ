@@ -1,4 +1,5 @@
-<h1 align="center">
+<h1 align="kanjut
+">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋,+I'm+Goo!;Creative+Thinker+%2F+Data+Explorer;Always+Learning,+Always+Curious" alt="Typing SVG" />
 </h1>
 
