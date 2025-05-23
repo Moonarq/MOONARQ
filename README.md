@@ -1,319 +1,307 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234567,100:36BCF7&height=200&section=header&text=KELVIANOV&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Welcome%20to%20my%20Digital%20Universe&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=KELVIANOV&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Back%20End%20Developer%20|%20Code%20Warrior&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+I'm+Kelvianov;Full+Stack+Developer;Backend+Architecture+Specialist;Cloud+Solutions+Engineer;Always+Learning+New+Technologies;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MY+DIGITAL+REALM;BACK+END+DEVELOPER+%7C+CODE+WARRIOR;BUILDING+EPIC+DIGITAL+ADVENTURES;LEVEL+UP+THROUGH+CONTINUOUS+LEARNING;READY+FOR+NEW+CHALLENGES" alt="Retro Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="300" />
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="500" height="300" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvianov&label=Profile%20Views&color=36BCF7&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kelvianov?label=Followers&style=for-the-badge&color=903749&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-orange?style=for-the-badge&logo=laravel&logoColor=white" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=kelvianov&style=for-the-badge&color=brightgreen&label=VISITORS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-CODING-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/LEVEL-SENIOR-blue?style=for-the-badge&logo=startrek&logoColor=white" alt="Level" />
+  <img src="https://img.shields.io/badge/MODE-HARDCORE-red?style=for-the-badge&logo=nintendo&logoColor=white" alt="Mode" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70%" />
 </div>
 
 ---
 
-<h2 align="center">🚀 ABOUT THE DEVELOPER</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  🎮 PLAYER PROFILE 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  <img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="Pixel Developer" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
-```javascript
-class Developer {
-    constructor() {
-        this.name = "Kelvianov";
-        this.role = "Backend Developer";
-        this.language_spoken = ["id_ID", "en_US"];
-        this.location = "Indonesia 🇮🇩";
-        this.passion = "Building scalable solutions";
-    }
-
-    get skills() {
-        return {
-            backend: ["PHP", "Laravel", "Node.js", "Python"],
-            frontend: ["JavaScript", "Vue.js", "React", "HTML/CSS"],
-            database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-            devops: ["Docker", "AWS", "Linux", "Nginx"],
-            tools: ["Git", "Postman", "VS Code", "PhpStorm"]
-        };
-    }
-
-    get currentlyLearning() {
-        return ["Microservices", "Kubernetes", "Go", "GraphQL"];
-    }
-
-    get hobbies() {
-        return ["Coding", "Reading Tech Blogs", "Gaming", "Coffee Tasting"];
-    }
-
-    get dailyLife() {
-        return {
-            "🌅 Morning": "Coffee + Code Review",
-            "🌞 Afternoon": "Development & Problem Solving",
-            "🌙 Evening": "Learning & Side Projects",
-            "🌃 Night": "More Coding (Best Ideas Come at Night!)"
-        };
-    }
-}
-
-const kelvianov = new Developer();
-console.log(kelvianov.passion); // "Building scalable solutions"
+```ascii
+╔══════════════════════════════════════╗
+║              PLAYER STATS            ║
+╠══════════════════════════════════════╣
+║ Name: Kelvianov                      ║
+║ Class: Backend Developer             ║
+║ Level: Senior Developer              ║
+║ XP: 10,000+ hours of coding          ║
+║ Location: Indonesia 🇮🇩               ║
+║ Special Ability: Problem Solving     ║
+║ Favorite Language: PHP/Laravel       ║
+║ Power Level: Over 9000!              ║
+╚══════════════════════════════════════╝
 ```
 
 <br clear="both">
 
----
+```javascript
+// Character Configuration
+const developer = {
+    name: "Kelvianov",
+    class: "BackendDeveloper",
+    level: 25,
+    
+    stats: {
+        coding: 95,
+        debugging: 90,
+        problemSolving: 92,
+        learning: 98,
+        coffee: 100
+    },
+    
+    inventory: {
+        languages: ["PHP", "JavaScript", "Python", "SQL"],
+        frameworks: ["Laravel", "Vue.js", "Node.js"],
+        tools: ["Docker", "Git", "AWS", "MySQL"],
+        weapons: ["VS Code", "PhpStorm", "Terminal"]
+    },
+    
+    currentQuest: "Building Scalable Applications",
+    sideQuests: ["Learning Kubernetes", "Mastering GraphQL"],
+    
+    achievements: [
+        "🏆 10k+ Lines of Clean Code",
+        "🎯 Zero Bug Bounty Hunter", 
+        "🚀 Performance Optimizer",
+        "📚 Continuous Learner",
+        "☕ Coffee Connoisseur"
+    ]
+};
 
-<h2 align="center">⚡ TECH STACK ARSENAL</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-        <br>Vue.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
-</div>
+console.log(`${developer.name} is ready for adventure!`);
+```
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h2 align="center">⚔️ TECH ARSENAL ⚔️</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=kelvianov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvianov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvianov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=kelvianov&theme=react&border_radius=10" alt="wakatime stats" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvianov&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
----
-
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelvianov&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=3&column=7" />
-</div>
-
----
-
-<h2 align="center">🎯 SKILL LEVELS</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,docker,aws,git&theme=dark" />
-</div>
-
-<br>
-
 <div align="center">
 
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| **PHP & Laravel** | ████████████████████ 95% | 4+ years |
-| **JavaScript & Vue.js** | ██████████████████ 90% | 3+ years |
-| **Database Design** | ███████████████████ 92% | 4+ years |
-| **API Development** | ████████████████████ 94% | 3+ years |
-| **Docker & DevOps** | ███████████████ 80% | 2+ years |
-| **Cloud Services** | ██████████████ 75% | 2+ years |
-| **System Architecture** | ████████████████ 85% | 3+ years |
+### 🗡️ PRIMARY WEAPONS
+<p>
+  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Vue.js-32CD32?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=228B22" />
+</p>
+
+### 🛡️ DEFENSIVE GEAR
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=191970" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=C71585" />
+  <img src="https://img.shields.io/badge/MongoDB-00FF7F?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=008B00" />
+  <img src="https://img.shields.io/badge/Redis-DC143C?style=for-the-badge&logo=redis&logoColor=white&labelColor=8B0000" />
+</p>
+
+### 🎒 UTILITY ITEMS
+<p>
+  <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0000CD" />
+  <img src="https://img.shields.io/badge/AWS-FF4500?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF6347" />
+  <img src="https://img.shields.io/badge/Git-9400D3?style=for-the-badge&logo=git&logoColor=white&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/Linux-32CD32?style=for-the-badge&logo=linux&logoColor=white&labelColor=228B22" />
+</p>
 
 </div>
 
 ---
 
-<h2 align="center">🌟 FEATURED PROJECTS</h2>
+<h2 align="center">📊 PLAYER STATISTICS</h2>
 
 <div align="center">
-  <a href="https://github.com/kelvianov/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvianov&repo=awesome-project&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/kelvianov/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvianov&repo=another-project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvianov&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvianov&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=FF6347&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/kelvianov/laravel-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvianov&repo=laravel-api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/kelvianov/vue-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvianov&repo=vue-dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvianov&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" />
 </div>
 
 ---
 
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
+<h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvianov&theme=neon-dark&hide_border=true&border_radius=15&background=000000" />
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kelvianov&theme=github-compact&bg_color=000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kelvianov&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
 
-<h2 align="center">🎵 SPOTIFY PLAYING</h2>
+<h2 align="center">⚡ SKILL TREE</h2>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=kelvianov&count=1&unique=true" alt="Spotify recently played" />
+
+```
+                    🌟 MASTER DEVELOPER 🌟
+                           /     \
+                    BACKEND         FRONTEND
+                    /    \          /      \
+                  PHP   Node.js   Vue.js  React
+                 /|\     |         |       |
+              Laravel Express   Vuex    Redux
+                |      |         |       |
+              MySQL  MongoDB   HTML5   CSS3
+                |      |         |       |
+              Redis PostgreSQL Sass   Tailwind
+```
+
+</div>
+
+<div align="center">
+
+| Skill Category | Level | Progress Bar |
+|----------------|-------|--------------|
+| **🔥 Backend Development** | 95 | ████████████████████ |
+| **🎨 Frontend Development** | 85 | ████████████████▓▓▓▓ |
+| **🗃️ Database Management** | 90 | ██████████████████▓▓ |
+| **🚀 DevOps & Cloud** | 80 | ████████████████▓▓▓▓ |
+| **⚙️ System Architecture** | 88 | █████████████████▓▓▓ |
+| **🔧 Problem Solving** | 92 | ██████████████████▓▓ |
+
 </div>
 
 ---
 
-<h2 align="center">💬 DEVELOPER QUOTES</h2>
+<h2 align="center">🎮 CONTRIBUTION MATRIX</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvianov&theme=github-compact&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00FF41/kelvianov" alt="Kelvianov's Github chart" />
 </div>
 
 ---
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+<h2 align="center">🎯 CURRENT QUESTS</h2>
 
 <div align="center">
-  <a href="mailto:kelvianov.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/kelvianov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/kelvianov_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/kelvianov.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="https://kelvianov.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
-  </a>
-  <a href="https://dev.to/kelvianov" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
-  </a>
-</div>
 
----
-
-<h2 align="center">🎯 CURRENT GOALS</h2>
-
-<div align="center">
-  
-```mermaid
-mindmap
-  root((2024 Goals))
-    Master Laravel Advanced
-      Queues & Jobs
-      Broadcasting
-      Telescope
-    Cloud Architecture
-      AWS Solutions Architect
-      Kubernetes
-      Microservices
-    Full Stack Development
-      React/Vue Advanced
-      GraphQL
-      TypeScript
-    Open Source
-      Contribute to Laravel
-      Create Packages
-      Write Tech Articles
+```ascii
+╔═══════════════════════════════════════════╗
+║               ACTIVE QUESTS               ║
+╠═══════════════════════════════════════════╣
+║ 🎯 Main Quest:                            ║
+║   └─ Master Laravel Advanced Features     ║
+║                                           ║
+║ 🔄 Side Quests:                           ║
+║   ├─ Learn Kubernetes & Microservices     ║
+║   ├─ Implement GraphQL API                ║
+║   ├─ Master Docker Swarm                  ║
+║   └─ Contribute to Open Source            ║
+║                                           ║
+║ 📚 Learning Path:                         ║
+║   ├─ System Design Patterns               ║
+║   ├─ Event-Driven Architecture            ║
+║   └─ Performance Optimization             ║
+╚═══════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-<h2 align="center">📈 WEEKLY DEVELOPMENT BREAKDOWN</h2>
+<h2 align="center">🏅 FEATURED PROJECTS</h2>
+
+<div align="center">
+  <a href="https://github.com/kelvianov/epic-laravel-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvianov&repo=epic-laravel-api&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
+  </a>
+  <a href="https://github.com/kelvianov/vue-gaming-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvianov&repo=vue-gaming-dashboard&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">🎵 CODING SOUNDTRACK</h2>
+
+<div align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+</div>
+
+<div align="center">
+
+**🎧 Perfect Coding Playlist:**
+- 🎼 Lo-fi Hip Hop Beats
+- 🎵 Synthwave & Retrowave  
+- 🎶 Game Soundtracks (Zelda, Final Fantasy)
+- 🎸 Progressive Rock & Metal
+- 🎹 Ambient & Chillstep
+
+</div>
+
+---
+
+<h2 align="center">💬 DEVELOPER WISDOM</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" />
+</div>
+
+---
+
+<h2 align="center">🌐 CONNECT & COLLABORATE</h2>
+
+<div align="center">
+  <a href="mailto:kelvianov.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://linkedin.com/in/kelvianov">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://twitter.com/kelvianov">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://instagram.com/kelvianov.dev">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://kelvianov.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=000000" />
+  </a>
+  <a href="https://dev.to/kelvianov">
+    <img src="https://img.shields.io/badge/BLOG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">📈 WEEKLY CODE BREAKDOWN</h2>
 
 <div align="center">
 
 <!--START_SECTION:waka-->
-```text
-PHP          15 hrs 30 mins  ████████████████░░░░░  65.5%
-JavaScript   4 hrs 45 mins   ████░░░░░░░░░░░░░░░░░  20.1%
-SQL          2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░   9.5%
-HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░   4.9%
+```ascii
+╔═══════════════════════════════════════════╗
+║            WEEKLY CODE STATS              ║
+╠═══════════════════════════════════════════╣
+║ PHP          ████████████████ 16h 30m 68% ║
+║ JavaScript   ██████           5h 15m  22% ║
+║ SQL          ██               2h 10m   9% ║
+║ HTML/CSS     █                 15m    1% ║
+╚═══════════════════════════════════════════╝
 ```
 <!--END_SECTION:waka-->
 
@@ -321,56 +309,46 @@ HTML/CSS     1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-<h2 align="center">🎮 WHEN I'M NOT CODING</h2>
+<h2 align="center">🕹️ GAME OVER? NEVER!</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
 </div>
 
 <div align="center">
 
-### 🎯 Life Balance
+```ascii
+  ╔═══════════════════════════════════════╗
+  ║  "The best error message is the one   ║
+  ║   that never shows up."               ║
+  ║                                       ║
+  ║  Ready for the next level!            ║
+  ║                                       ║
+  ║         PRESS START TO CONTINUE       ║
+  ╚═══════════════════════════════════════╝
+```
 
-**☕ Coffee Enthusiast** - Exploring different brewing methods  
-**🎵 Music Lover** - Lo-fi, Jazz, and Electronic  
-**🎮 Gamer** - Strategy games and RPGs  
-**📚 Bookworm** - Tech blogs, programming books, and sci-fi  
-**🌱 Continuous Learner** - Always exploring new technologies  
-**🏃‍♂️ Fitness** - Running and occasional gym sessions  
-
-</div>
-
----
-
-<h2 align="center">🚀 LATEST BLOG POSTS</h2>
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with Laravel and Redis](https://dev.to/kelvianov/building-scalable-apis)
-- [Docker for PHP Developers: Complete Guide](https://dev.to/kelvianov/docker-php-guide)
-- [Vue.js 3 Composition API: Best Practices](https://dev.to/kelvianov/vue3-composition-api)
-- [Database Optimization Techniques](https://dev.to/kelvianov/database-optimization)
-- [Clean Architecture in Laravel Applications](https://dev.to/kelvianov/clean-architecture-laravel)
-<!-- BLOG-POST-LIST:END -->
+### 🎮 Gaming Philosophy Applied to Code:
+- **🎯 Every bug is a boss to defeat**
+- **⚡ Code optimization is speedrunning**  
+- **🛡️ Unit tests are save points**
+- **🚀 Deployment is the final stage**
+- **🏆 Clean code is the ultimate achievement**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234567,100:36BCF7&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <p>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-    <em>Always excited to collaborate on interesting projects!</em>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  </p>
+  <h3>🎮 GAME OVER... OR IS IT JUST THE BEGINNING? 🎮</h3>
   
-  <p><strong>💫 "Code is poetry written in logic" 💫</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=50&lines=THANKS+FOR+VISITING+MY+PROFILE!;LET'S+CODE+SOMETHING+EPIC+TOGETHER!;READY+PLAYER+ONE?" alt="Footer Typing" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&height=20&lines=Happy+Coding!+🚀;Let's+Build+Something+Amazing!+⭐;Keep+Learning+Keep+Growing!+🌱" alt="Footer Typing SVG" />
+  <p><strong>💫 "In code we trust, in coffee we survive!" 💫</strong></p>
+  
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
 </div>
