@@ -1,45 +1,48 @@
 <!-- Header GIF -->
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<!-- Name & Title -->
+<!-- Nama & Animasi -->
 <h1 align="center">Hi 👋, I'm Kelvianov</h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
 
-<!-- Coding Illustration SVG -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Web+Developer+from+Indonesia;Passionate+about+Code+%26+Design;Always+learning+something+new!" alt="Typing SVG" />
+</h3>
+
+<!-- Coding SVG Illustration -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" width="100% " />
+  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" width="90%" />
 </p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wmkoil2cvx0r2y190b5ljjo2z&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 💡 About Me
-- 🌱 Currently learning: **[Tech you're learning]**
-- 👯 Looking to collaborate on: **[Projects/Ideas]**
-- 💬 Ask me about: **[Skills]**
-- 📫 Contact me: **kelvianov10@gmail.com**
-- ⚡ Fun fact: *[Something interesting about you]*
+- 🌱 Currently learning: **Laravel, FilamentPHP, API**
+- 👯 Looking to collaborate on: **Web App Projects**
+- 💬 Ask me about: **HTML, CSS, JavaScript, PHP, Laravel**
+- 📫 Reach me at: **kelvianov10@gmail.com**
+- ⚡ Fun fact: *I write clean code, but my desk is messy 😄*
 
 ---
 
-
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvianov&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvianov&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvianov&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  <a href="mailto:kelvianov10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kelvianov">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
