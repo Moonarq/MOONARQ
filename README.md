@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kelvianov&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+ ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 </div>
 
 <h1 align="center">
