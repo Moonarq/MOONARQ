@@ -1,36 +1,45 @@
-<!-- GitHub Profile Header -->
+<!-- Header GIF -->
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Job or Field] from [Your Country]</h3>
+<!-- Name & Title -->
+<h1 align="center">Hi 👋, I'm Kelvianov</h1>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
+
+<!-- Coding Illustration SVG -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" width="100% " />
+</p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wmkoil2cvx0r2y190b5ljjo2z&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+---
+
+### 💡 About Me
+- 🌱 Currently learning: **[Tech you're learning]**
+- 👯 Looking to collaborate on: **[Projects/Ideas]**
+- 💬 Ask me about: **[Skills]**
+- 📫 Contact me: **kelvianov10@gmail.com**
+- ⚡ Fun fact: *[Something interesting about you]*
 
 ---
 
-### 🔧 About Me
-- 🌱 I’m currently learning **[Tech you're learning]**
-- 👯 I’m looking to collaborate on **[Open source or project ideas]**
-- 💬 Ask me about **[Your skills]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: *[A cool or funny fact about you]*
-
----
 
 
-
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvianov&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
- <a href="https://www.linkedin.com/in/kelvianov-kesuma-4b2176364/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="email" height="30" width="30/></a>
-  <a href="mailto:kelvianov10@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
