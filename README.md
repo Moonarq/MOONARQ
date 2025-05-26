@@ -54,7 +54,9 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:kelvianov10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="mailto:kelvianov10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
  <a href="https://www.linkedin.com/in/kelvianov-kesuma-4b2176364/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
