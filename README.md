@@ -60,7 +60,7 @@
  <a href="https://www.linkedin.com/in/kelvianov-kesuma-4b2176364/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://portofolio-rho-azure.vercel.app/">
+<a href="https://portofolio-tau-lovat.vercel.app/">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
