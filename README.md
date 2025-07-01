@@ -23,12 +23,12 @@
 
 ### 🌟 About Me
 
-- 🎨 Passionate about **web development & UI design**
-- 🌱 Currently learning: **Laravel**, **FilamentPHP**, **REST API**
-- 🤝 Open to collaborate on **web app projects**
-- 💬 Ask me about: **HTML, CSS, JavaScript, Laravel**
-- 📫 Reach me at: **kelvianov10@gmail.com**
-- 😄 Fun fact: *My code is cleaner than my desk*
+-  Passionate about **web development & UI design**
+-  Currently learning: **Laravel**, **FilamentPHP**, **REST API**
+-  Open to collaborate on **web app projects**
+-  Ask me about: **HTML, CSS, JavaScript, Laravel**
+-  Reach me at: **kelvianov10@gmail.com**
+-  Fun fact: *My code is cleaner than my desk*
 
 ---
 
