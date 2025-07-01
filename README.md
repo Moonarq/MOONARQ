@@ -35,8 +35,9 @@
 ### 🚀 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vscode,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vscode,figma,react,vite&theme=light" />
 </p>
+
 
 ---
 
