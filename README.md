@@ -21,7 +21,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 -  Passionate about **web development & UI design**
 -  Currently learning: **Laravel**, **FilamentPHP**, **REST API**
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 My Toolbox
+###  My Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vscode,figma,react,vite&theme=light" />
@@ -41,18 +41,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moonarq&theme=tokyonight" width="95%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonarq&layout=compact&theme=tokyonight" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Moonarq&show_icons=true&theme=tokyonight&line_height=33" width="48%" />
-</p>
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 <p align="center">
  <a href="mailto:kelvianov10@gmail.com">
@@ -61,7 +53,7 @@
  <a href="https://www.linkedin.com/in/kelvianov-kesuma-4b2176364/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://portofolio-react-js-five.vercel.app/">
+<a href="https://moonarq.vercel.app/">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
