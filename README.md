@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="MasterHead" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Kelvianov</span></h1>
+<h1 align="center">ACNA NON <span style="color:#00BFFF;">VERBA</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Web+Developer+from+Indonesia;Clean+Code+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
